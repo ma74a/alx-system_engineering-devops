@@ -1,0 +1,2 @@
+#!/bin/bash
+chmod -R u=rx,g=rx,o=r
